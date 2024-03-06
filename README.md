@@ -1,13 +1,4 @@
-# Sample Hardhat Project
+Storage and Memory Example Smart Contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+This Solidity smart contract demonstrates the use of both storage and memory types of variables. 
+It’s a simple example to help you understand how data is stored and managed within Ethereum smart contracts.
